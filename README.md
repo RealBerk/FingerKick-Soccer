@@ -1,14 +1,18 @@
 
 **İMPORTANT !!**
 # Türkçe
--
-NOT : Bu projenin fikir, geliştirme ve tüm proses süreçleri geliştiriciye aittir! Sadece yazılımda YapayZeka'dan destek alınmıştır ve assetler ücretsiz assetlerdir.
-📂 Kullanılan Tüm Assetlerin Kaynakları : Unity Free Asset, AI, Kenny.nl 
+-NOT : Bu projenin fikir, geliştirme ve tüm proses süreçleri geliştiriciye aittir! Sadece yazılımda YapayZeka'dan destek alınmıştır ve assetler ücretsiz assetlerdir.
+
+-📂 Kullanılan Tüm Assetlerin Kaynakları : Unity Free Asset, AI, Kenny.nl 
 
 # English
--
-NOTE: The concept, development, and entire process of this project belong to the developer! AI support was used only for the software, and the assets are free.
-📂 Sources of All Assets Used: Unity Free Assets, AI, Kenny.nl
+
+-NOTE: The concept, development, and entire process of this project belong to the developer! AI support was used only for the software, and the assets are free.
+
+-📂 Sources of All Assets Used: Unity Free Assets, AI, Kenny.nl
+
+
+
 
 # 🎮 FingerKick Arena – AI-Assisted Mobile Soccer Game 🎮
 
