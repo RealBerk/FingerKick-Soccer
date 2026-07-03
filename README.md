@@ -14,7 +14,7 @@
 
 
 
-# 🎮 FingerKick Arena – AI-Assisted Mobile Soccer Game 🎮
+# 🎮 FingerKick Arena – AI-Assisted Mobile Soccer Game 
 
 ---
 
